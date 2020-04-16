@@ -10,3 +10,10 @@ obs.sb.proposal_id = 'SCI-20180923-MK-01'
 obs.sb.to_defined()
 obs.sb.to_approved()
 obs.sb.unload()
+
+# Delay calibration: 20200416-0002
+# Phase up: 20200416-0003
+# Imaging data: 20200416-0004
+# Comments:
+# - observation started with ~30 min delay,
+# - power from the antennas started to diverge quite a lot after 2 hours,
