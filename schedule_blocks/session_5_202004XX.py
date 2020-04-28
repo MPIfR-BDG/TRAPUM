@@ -10,3 +10,9 @@ obs.sb.proposal_id = 'SCI-20180923-MK-01'
 obs.sb.to_defined()
 obs.sb.to_approved()
 obs.sb.unload()
+
+# Delay calibration: 
+# Phase up: 
+# Imaging data: 
+# Comments:
+# - 
