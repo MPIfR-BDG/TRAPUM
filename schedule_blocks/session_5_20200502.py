@@ -11,8 +11,9 @@ obs.sb.to_defined()
 obs.sb.to_approved()
 obs.sb.unload()
 
-# Delay calibration: 
-# Phase up: 
-# Imaging data: 
+# Delay calibration: 20200502-0002
+# Phase up: 20200502-0003
+# Imaging data: 20200502-0004
 # Comments:
+# - 58 antennas used,
 # - 
